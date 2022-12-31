@@ -1,8 +1,8 @@
 #### MySQL安装
 
-> 【环境】
-> 操作系统：CentOS 7
-> MySQL版本：MySQL 5.7
+> 安装环境：
+> - 操作系统：CentOS 7
+> - MySQL版本：MySQL 5.7
 
 ##### 安装
 ```
